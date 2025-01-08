@@ -1,3 +1,5 @@
+
+##Submitted by HV HEMILA ,A ANTONY MARIATTE PRENISHA A.AARTHI ABIRAMI.S College name: Rajas Institute of Technology##
 This Arduino-based project implements a Smart Parking System with real-time monitoring and feedback using ultrasonic sensors, LEDs, an IR sensor, a servo motor, and an LCD display. Key features of the system include:
 
 Ultrasonic Sensor Distance Measurement:
